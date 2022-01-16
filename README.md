@@ -50,6 +50,8 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 
 - ☁️ Deploy on Netlify, zero-config
 
+- element plus
+
 <br>
 
 ## Pre-packed
